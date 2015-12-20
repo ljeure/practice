@@ -1,0 +1,15 @@
+﻿Build started 4/20/2015 12:02:38 AM.
+     1>Project "C:\Users\Eure Kids\Documents\Visual Studio 2012\Projects\Average Calculator\Average Calculator\Average Calculator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Average Calculator.cpp"
+         Average Calculator.cpp
+     1>c:\users\eure kids\documents\visual studio 2012\projects\average calculator\average calculator\average calculator.cpp(37): warning C4244: 'initializing' : conversion from 'float' to 'const int', possible loss of data
+     1>c:\users\eure kids\documents\visual studio 2012\projects\average calculator\average calculator\average calculator.cpp(43): warning C4244: 'argument' : conversion from 'float' to 'const int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Eure Kids\Documents\Visual Studio 2012\Projects\Average Calculator\Debug\Average Calculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Eure Kids\Documents\Visual Studio 2012\Projects\Average Calculator\Debug\Average Calculator.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Eure Kids\Documents\Visual Studio 2012\Projects\Average Calculator\Debug\Average Calculator.lib" /MACHINE:X86 "Debug\Average Calculator.obj"
+         Average Calculator.vcxproj -> C:\Users\Eure Kids\Documents\Visual Studio 2012\Projects\Average Calculator\Debug\Average Calculator.exe
+     1>Done Building Project "C:\Users\Eure Kids\Documents\Visual Studio 2012\Projects\Average Calculator\Average Calculator\Average Calculator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.75
